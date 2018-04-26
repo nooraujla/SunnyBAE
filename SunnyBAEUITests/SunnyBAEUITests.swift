@@ -7,7 +7,7 @@
 
 import XCTest
 
-class SunIsBAEUITests: XCTestCase {
+class SunnyBAEUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

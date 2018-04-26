@@ -6,9 +6,9 @@
 //
 
 import XCTest
-@testable import SunIsBAE
+@testable import SunnyBAE
 
-class SunIsBAETests: XCTestCase {
+class SunnyBAETests: XCTestCase {
     
     override func setUp() {
         super.setUp()

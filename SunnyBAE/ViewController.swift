@@ -11,7 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        let weather = WeatherGetter()
+        weather.getWeather(zipCode: 94105)
     }
 
     override func didReceiveMemoryWarning() {
